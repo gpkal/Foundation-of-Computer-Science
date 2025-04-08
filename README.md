@@ -1,6 +1,6 @@
 # Foundation of Computer Science - DOGS
 
-A series of string manipulation challenges in Python.
+A series of Python challenges involving string manipulation and logic.
 
 ---
 Project by Giorgia Prina, Simone Massardi and Enrico Mannarino
